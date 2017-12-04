@@ -1,0 +1,36 @@
+{
+    "Countries": [
+        "Dominican Republic",
+        "Haiti",
+        "Spain",
+        "Canada",
+        "United States of America",
+        "Venezuela",
+        "Peru",
+        "Germany",
+        "Russia",
+        "Democratic Republic of the Congo",
+        "Andorra",
+        "Afghanistan",
+        "Czech Republic",
+        "Sri Lanka",
+        "Portugal",
+        "Uzbekistan"
+    ],
+    "Fruits & Vegetables": [
+        "Rice",
+        "Avocado",
+        "Orange",
+        "Apple",
+        "Tomato",
+        "Lettuce",
+        "Cabbage",
+        "Broccoli",
+        "Cauliflower"
+    ],
+    "Miscellaneous": [
+        "Javascript Object Notation",
+        "Integrated Development Environment",
+        "Application Programming Interface"
+    ]
+}
